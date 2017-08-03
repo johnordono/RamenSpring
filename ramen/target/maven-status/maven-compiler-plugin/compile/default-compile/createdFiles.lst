@@ -1,0 +1,5 @@
+com\ramen\ramen\RamenController.class
+com\ramen\ramen\Ramen.class
+com\ramen\App.class
+com\ramen\ramen\RamenService.class
+com\ramen\ramen\RamenRepository.class
